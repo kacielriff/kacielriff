@@ -13,7 +13,7 @@
 
 <hr>
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,php,postgres,firebase,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,redux,dart,flutter,php,postgres,firebase,postman,docker,git,github" />
 
 ## Contacts and Social Networks
 
